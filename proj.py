@@ -263,7 +263,7 @@ if selected == "Contact Us":
     st.write("")
 
     contact_form = """
-        <form action="https://formsubmit.co/pavan.s.diwakar@gmail.com" method="POST">
+        <form action="https://formsubmit.co/80888dd77ecd6d6c233bd84d161c4ce6" method="POST">
             <input type="hidden" name="_autoresponse" value="Your Message has been recorded.">
             <input type="text" name="name" placeholder="Your Name" required>
             <input type="email" name="email" placeholder="Your Email" required>
